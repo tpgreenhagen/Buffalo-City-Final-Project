@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ c\ w\ h
+comment0.target=Back(int,\ int,\ java.awt.Color,\ int,\ int)
+comment0.text=\r\n\ Back\ Constructor\r\n\ Sets\ the\ x-cord,\ y-cord,\ color,\ width,\ height\r\n
+comment1.params=page
+comment1.target=void\ draw(java.awt.Graphics)
+comment1.text=\r\n\ Draw\r\n\ Actually\ draws\ the\ picture\r\n
+numComments=2

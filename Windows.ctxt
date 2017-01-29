@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x\ y\ c\ w\ h\ l
+comment0.target=Windows(int,\ int,\ java.awt.Color,\ int,\ int,\ char)
+comment0.text=\r\n\ Windows\ Constructor\r\n\ Sets\ the\ x-cord,\ y-cord,\ color,\ width,\ height,\ letter\r\n
+comment1.params=x\ y\ c\ w\ h\ l
+comment1.target=void\ set(int,\ int,\ java.awt.Color,\ int,\ int,\ char)
+comment1.text=\r\n\ Windows\ Setter\r\n\ Sets\ the\ x-cord,\ y-cord,\ color,\ width,\ height,\ letter\r\n
+comment2.params=page
+comment2.target=void\ draw(java.awt.Graphics)
+comment2.text=\r\n\ draw\r\n\ This\ will\ put\ the\ windows\ into\ the\ arrangements\ of\ letters\r\n
+numComments=3

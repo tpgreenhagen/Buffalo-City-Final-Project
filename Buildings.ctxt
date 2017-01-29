@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ c\ w\ h
+comment0.target=Buildings(int,\ int,\ java.awt.Color,\ int,\ int)
+comment0.text=\r\n\ Building\ Constructor\r\n\ Sets\ the\ x-cord,\ y-cord,\ color,\ width,\ height\r\n
+comment1.params=x\ y\ c\ w\ h
+comment1.target=void\ set(int,\ int,\ java.awt.Color,\ int,\ int)
+comment1.text=\r\n\ Building\ Setter\r\n\ Sets\ the\ x-cord,\ y-cord,\ color,\ width,\ height\r\n
+comment2.params=r
+comment2.target=void\ setRound(int)
+comment2.text=\r\n\ setRound\r\n\ Sets\ the\ round(really\ useless\ actually)\r\n
+comment3.params=page
+comment3.target=void\ draw(java.awt.Graphics)
+comment3.text=\r\n\ Draw\r\n\ Actually\ draws\ the\ picture\r\n
+numComments=4
